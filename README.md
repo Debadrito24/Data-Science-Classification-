@@ -18,7 +18,7 @@ For above mentioned process, the final promotions are only announced after the e
    
 # Data-Source
 
-HR Analytics Challenge , Data-set available in Analytics Vidhya websie. 
+HR Analytics Challenge , Data-set available in Analytics Vidhya website. 
 
 
 # Project-Description
